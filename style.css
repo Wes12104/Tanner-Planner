@@ -1,0 +1,14 @@
+h1{
+  color: navy;
+}
+h2{
+  background: orange;
+  color: teal;
+  display: inline;
+}
+ol{
+  color: green;
+}
+strong{
+  color: maroon;
+}
